@@ -1,4 +1,4 @@
-# fitzroy's Slate Pro Font
+# Slate Pro Font
 
 ## Why This Modules?
 
